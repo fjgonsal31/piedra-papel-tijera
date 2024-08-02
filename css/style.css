@@ -1,0 +1,13 @@
+.sectJuego {
+    margin: 5rem;
+}
+
+p {
+    font-size: 2rem;
+    text-align: center;
+    height: 4rem;
+}
+
+.card {
+    font-size: 4rem;
+}
